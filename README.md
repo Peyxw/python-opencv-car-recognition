@@ -9,5 +9,3 @@ Link If You Want To Download Separate Video:https://vod-progressive.akamaized.ne
 # Images:
 ![Resim](img/1.png)
 ![Resim](img/2.PNG)
-# Owner:
-Peyxw
