@@ -3,7 +3,7 @@ import numpy as np
 import cv2
   
 # Calling Video
-cap = cv2.VideoCapture('video1.avi')
+cap = cv2.VideoCapture('video.avi')
 
 # Calling the XML File
 car_cascade = cv2.CascadeClassifier('cars.xml')
